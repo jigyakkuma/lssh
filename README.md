@@ -14,7 +14,9 @@ compdef lssh=ssh
 
 ## Usage
 
+```
 lssh example.com
+```
 
 ## Install
 
