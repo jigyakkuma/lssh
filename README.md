@@ -3,7 +3,7 @@
 
 ## Description
 
-This shellscript is ssh and logging for command.
+This shellscript is ssh and logging for command(ssh wrapper).
 
 ## Requirement
 
