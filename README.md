@@ -10,6 +10,9 @@ If you using zsh, add a this code to .zshrc.
 ```
 # compdef
 compdef lssh=ssh
+
+# alias
+alias lssh=lssh.sh
 ```
 
 ## Usage
