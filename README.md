@@ -1,5 +1,6 @@
 ## lssh
 
+
 ## Description
 
 This shellscript is ssh and logging for command.
@@ -19,6 +20,18 @@ alias lssh=lssh.sh
 
 ```
 lssh example.com
+```
+
+default logging directory (lssh.sh) :
+```
+log_directory="log"
+```
+
+Log file is :
+```
+lssh example.com
+ls ~/log
+example.com.20150209_121045.log
 ```
 
 ## Install
